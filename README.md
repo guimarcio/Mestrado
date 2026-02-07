@@ -13,7 +13,7 @@ Blind Speech Separation in reverberant environments using:
 
 * Fast (fixed-point iteration)
 
-*Auxiliary Function method
+* Auxiliary Function method
 
 ### Independent Vector Analysis (IVA)
 
