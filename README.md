@@ -1,7 +1,7 @@
 # 🎓 Blind Speech Separation in Reverberant Rooms (Master's Dissertation)
 
 This repository contains the implementation developed for my Master's dissertation. 
-The dissertation can be seen <[here](https://www.ppgee.ufmg.br/defesas/2193M.PDF)>.
+The dissertation text (in portuguese) can be found <[here](https://www.ppgee.ufmg.br/defesas/2193M.PDF)>.
 
 ## 📌 Topic
 
